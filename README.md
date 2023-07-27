@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Kumar Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<image align="right" alt="coding" width=400 src="https://media.tenor.com/p2eovClgAMoAAAAM/designer-coffee-break.gif">
+<image align="right" alt="coding" width=350 src="https://media.tenor.com/p2eovClgAMoAAAAM/designer-coffee-break.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuicha&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuicha" /> </p>
 
